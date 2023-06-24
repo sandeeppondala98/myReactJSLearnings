@@ -1,0 +1,8 @@
+PSPUN@cognizant.com PSHYD@cognizant.com PSBLR@cognizant.com
+
+1) Emmet
+2) React CDN
+3) Async and differ
+
+react cam with an idea of writing html in the javascript.
+reactjs.org
